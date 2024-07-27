@@ -40,3 +40,5 @@ Este é um projeto de uma perfumaria online desenvolvido com HTML, CSS e JavaScr
 
 2. **Abrindo o Projeto**:
     - Abra o arquivo index.html em um navegador da sua escolha para visualizar o site.
+
+OBS: Projeto em atualização
